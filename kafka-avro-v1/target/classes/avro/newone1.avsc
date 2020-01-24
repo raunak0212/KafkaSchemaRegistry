@@ -1,0 +1,11 @@
+{
+  
+  "type": "record",
+  "namespace": "com.example",
+  "name": "NewOne",
+  "fields": [
+    {"name": "name","type": "string"},
+    {"name": "email","type": "string","default":"NA"},
+    {"name": "last","type": "string","default":"NA"}
+  ]
+  }
